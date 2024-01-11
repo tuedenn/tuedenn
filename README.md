@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuedenn
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently working as a Cyber Incident Responser, Malware Analysist,...
+- 🌱 I’m currently working as a Cyber Incident Responser, Threat Hunting,...
 - 💞️ I’m happy to collaborate with other guys in the field
 - 📫 Feel free to send me a direct message on [Twitter](https://twitter.com/tuedenn)
 
